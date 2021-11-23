@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952654257228",
+    "project_id": "trybae-ticket-system",
+    "storage_bucket": "trybae-ticket-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952654257228:android:df19281c8e3813d55ca8e9",
+        "android_client_info": {
+          "package_name": "com.example.trybae_ticket_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952654257228-i0ttql2ru6ut0unu0dbep63qfs8j1s1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbaXQ_YocptFMb7lay86rYU8kgTiy5aek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952654257228-i0ttql2ru6ut0unu0dbep63qfs8j1s1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
